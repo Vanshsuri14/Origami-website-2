@@ -1,0 +1,11 @@
+.header{
+  background-color: yellowgreen;
+  display: flex;  
+  justify-content: space-between;
+}
+.grid{
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+}
